@@ -27,6 +27,7 @@ const actionMap = {
 	'volume down': 'AAAAAQAAAAEAAAATAw==',
 	pause: 'AAAAAgAAAJcAAAAZAw==',
 	play: 'AAAAAgAAAJcAAAAaAw==',
+	sleepTimer: 'AAAAAQAAAAEAAAA2Aw==',
 };
 
 /** @type {Object} actionLookUpTable Alternate action names lookup table */
